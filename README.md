@@ -41,4 +41,4 @@ export MKFS_TYPE=ext4 # (default: 'ext4'. possible: ['ext4', 'ntfs', 'xfs'])
 
 ### Docker Hub
 
-`docker.io/colemickens/azure-tools:latest`
+`docker.io/campbelldgunn/azure-tools:latest`
